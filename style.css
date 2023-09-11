@@ -48,7 +48,7 @@ h1, h2, h3, span {
     position: fixed;
     text-align: center;
     width: 100%;
-    top: 0px;
+    top: 30px;
     font-size: 60px;
   }
 
