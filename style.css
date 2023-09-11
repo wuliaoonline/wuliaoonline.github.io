@@ -69,7 +69,7 @@ h1, h2, h3, span {
     width: 100%;
     top: -20px;
     font-size: 75px;
-    background: -webkit-linear-gradient(0deg, #ceadfc 0%, #a3bbfb 100%);
+    background: -webkit-linear-gradient(90deg, #e9e6ff 0%, white 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
