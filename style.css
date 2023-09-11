@@ -8,7 +8,7 @@
   display: block;
 }
 
-h1, h2, span {
+h1, h2, h3, span {
   display: none;
 }
 
@@ -17,7 +17,7 @@ h1, h2, span {
     display: none;
   }
 
-  h1, h2, span {
+  h1, h2, h3, span {
     display: block;
   }
 
@@ -48,7 +48,7 @@ h1, h2, span {
     position: fixed;
     text-align: center;
     width: 100%;
-    top: 90px;
+    top: 150px;
     font-size: 60px;
   }
 
@@ -63,6 +63,17 @@ h1, h2, span {
     -webkit-text-fill-color: transparent;
   }
 
+  h3 {
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    top: -20px;
+    font-size: 75px;
+    background: -webkit-linear-gradient(0deg, #ceadfc 0%, #a3bbfb 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
   bokeh {
     position: fixed;
     width: 2vmin;
