@@ -698,7 +698,7 @@ h1, h2, h3, span {
   }
   .cake {
     position: relative;
-    top: 370px;
+    top: 310px;
     margin: auto;
     width: 200px;
     height: 60px;
@@ -712,7 +712,7 @@ h1, h2, h3, span {
     position: absolute;
     height: 90px;
     width: 300px;
-    bottom: 25px;
+    bottom: -35px;
     left: 50%;
     top: 440px;
     margin-left: -150px;
@@ -726,7 +726,7 @@ h1, h2, h3, span {
     position: relative;
     height: 50px;
     width: 12px;
-    top: 400px;
+    top: 340px;
     margin: auto;
     background: linear-gradient(0deg, #b7f4a7 0%, white 100%);
     border-radius: 4px;
