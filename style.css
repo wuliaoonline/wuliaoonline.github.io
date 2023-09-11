@@ -698,7 +698,7 @@ h1, h2, h3, span {
   }
   .cake {
     position: relative;
-    top: 310px;
+    top: 370px;
     margin: auto;
     width: 200px;
     height: 60px;
@@ -712,9 +712,9 @@ h1, h2, h3, span {
     position: absolute;
     height: 90px;
     width: 300px;
-    bottom: -35px;
+    bottom: 25px;
     left: 50%;
-    top: 440px;
+    top: 500px;
     margin-left: -150px;
     border-radius: 100%;
     background: radial-gradient(ellipse closest-side at center, #08c7fe 0%, #04d7f2 71%, #02ffd0 100%);
@@ -726,7 +726,7 @@ h1, h2, h3, span {
     position: relative;
     height: 50px;
     width: 12px;
-    top: 340px;
+    top: 400px;
     margin: auto;
     background: linear-gradient(0deg, #b7f4a7 0%, white 100%);
     border-radius: 4px;
